@@ -1,0 +1,16 @@
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\obj\Debug\net8.0\TradeApp.Application.csproj.AssemblyReference.cache
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\obj\Debug\net8.0\TradeApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\obj\Debug\net8.0\TradeApp.Application.AssemblyInfoInputs.cache
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\obj\Debug\net8.0\TradeApp.Application.AssemblyInfo.cs
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\obj\Debug\net8.0\TradeApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\obj\Debug\net8.0\TradeApp.Application.sourcelink.json
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\bin\Debug\net8.0\TradeApp.Application.deps.json
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\bin\Debug\net8.0\TradeApp.Application.dll
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\bin\Debug\net8.0\TradeApp.Application.pdb
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\bin\Debug\net8.0\TradeApp.Domain.dll
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\bin\Debug\net8.0\TradeApp.Domain.pdb
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\obj\Debug\net8.0\TradeApp.Application.csproj.CopyComplete
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\obj\Debug\net8.0\TradeApp.Application.dll
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\obj\Debug\net8.0\refint\TradeApp.Application.dll
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\obj\Debug\net8.0\TradeApp.Application.pdb
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Application\obj\Debug\net8.0\ref\TradeApp.Application.dll

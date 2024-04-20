@@ -1,0 +1,13 @@
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\obj\Debug\net8.0\TradeApp.Domain.csproj.AssemblyReference.cache
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\obj\Debug\net8.0\TradeApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\obj\Debug\net8.0\TradeApp.Domain.AssemblyInfoInputs.cache
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\obj\Debug\net8.0\TradeApp.Domain.AssemblyInfo.cs
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\obj\Debug\net8.0\TradeApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\obj\Debug\net8.0\TradeApp.Domain.sourcelink.json
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\bin\Debug\net8.0\TradeApp.Domain.deps.json
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\bin\Debug\net8.0\TradeApp.Domain.dll
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\bin\Debug\net8.0\TradeApp.Domain.pdb
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\obj\Debug\net8.0\TradeApp.Domain.dll
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\obj\Debug\net8.0\refint\TradeApp.Domain.dll
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\obj\Debug\net8.0\TradeApp.Domain.pdb
+C:\Users\tidih\OneDrive\Рабочий стол\TradeAppCleanArchitecture\TradeApp.Domain\obj\Debug\net8.0\ref\TradeApp.Domain.dll
